@@ -3,6 +3,7 @@ Image Classification of traffic signs using CNNs
 
 # Key highlights:
 * GTSRB - German Traffic Sign Recognition Benchmark used for training.
+
     **Features of the dataset
       -Single-image, multi-class classification problem
       -More than 40 classes
